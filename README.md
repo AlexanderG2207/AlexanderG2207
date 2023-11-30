@@ -1,16 +1,25 @@
-### Hi, my name is Alex👋
+# Hi, I'm Alex! 👋
 
-<!--
-**AlexanderG2207/AlexanderG2207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Systems student at the Technical University of Munich, working towards my bachelor's degree. My journey into the world of technology has led me to explore various programming languages, focusing on mobile development with Swift and backend development with Java.
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am working on my thesis project in collaboration with the [TUM Applied Software Engineering Chair](https://ase.cit.tum.de/), titled "Design Anywhere: UML Modeling on Mobile Devices". The goal is to allow students to partake in UML modeling exercises from the comfort of their mobile devices.
+
+[Apollon-iOS-Module](https://github.com/ls1intum/apollon-ios-module) 
+
+[Apollon-iOS-Standalone](https://github.com/ls1intum/apollon-ios-standalone)
+
+[Artemis-iOS](https://github.com/ls1intum/artemis-ios)
+
+[Themis](https://github.com/ls1intum/Themis)
+
+## 🌱 Currently Learning 
+
+I am constantly expanding my knowledge and staying up-to-date with the latest in mobile and backend development.
+
+## 📫 How to Reach Me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alexandergörtzen/).
+
+Looking forward to connecting with like-minded individuals and making meaningful contributions to the world of technology (or to just say hi 😁)!
