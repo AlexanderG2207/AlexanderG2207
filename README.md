@@ -8,7 +8,7 @@ Currently, I am working on my thesis project in collaboration with the [TUM Appl
 
 [Apollon-iOS-Module](https://github.com/ls1intum/apollon-ios-module) 
 
-[Apollon-iOS-Standalone](https://github.com/ls1intum/apollon-ios-standalone)
+[Apollon-iOS](https://github.com/ls1intum/apollon-ios)
 
 [Artemis-iOS](https://github.com/ls1intum/artemis-ios)
 
