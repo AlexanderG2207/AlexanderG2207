@@ -1,6 +1,6 @@
 # Hi, I'm Alex! 👋
 
-I'm an Information Systems student at the Technical University of Munich, working towards my bachelor's degree. My journey into the world of technology has led me to explore various programming languages, focusing on mobile development with Swift and backend development with Java.
+I'm an Information Systems student at the Technical University of Munich. My journey into the world of technology has led me to explore various programming languages, focusing on mobile development with Swift and backend development with Java.
 
 ## 🔭 Currently Working On 
 
@@ -16,7 +16,7 @@ Currently, I am working on my thesis project in collaboration with the [TUM Appl
 
 ## 🌱 Currently Learning 
 
-I am constantly expanding my knowledge and staying up-to-date with the latest in mobile and backend development.
+I constantly expand my knowledge and stay up-to-date with the latest mobile and backend development.
 
 ## 📫 How to Reach Me
 
